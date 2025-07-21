@@ -9,14 +9,14 @@ sidebar:
 
   # Profile information
   name: Chavez Poon
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Freelance Website Designer and Developer
+  avatar:
 
   # Sidebar links
   email: info@chavezpoon.com 
   phone: (+852) 9452 1580
-  timezone: 
-  citizenship:
+  timezone: Hong Kong SAR
+  citizenship: 
   website: https://poonlonghei.github.io
   linkedin: poonlonghei
   xing: 
@@ -46,12 +46,20 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    My name is Chavez Poon, I am a freelance website designer and developer based in Hong Kong SAR. 
+    
+    I was born, raised and educated in Hong Kong, where I earned my Diploma of Vocational Education in Information Technology in December 2023.
+    
+    I am familiar with HTML, CSS, WordPress, WooCommerce and Shopify with over 5+ years of experience.
+    
+    Over the course of my career, I have worked as a Social Media Manager and Website Administrator at an NGO Organization.
+    
+    Aside from being a website designer and developer, I'm also a founder and owner of a online clothing brand.
+    
+    I believe the process of creating some intresting and amazing stuffs from nothing is deeply rewarding and seeing your work come together and materialize on a computer screen is a feeling like no other.
+    
+    Aside from technological, I am a devoted Roman Catholic for more than 10 years, and I love playing musics (Pipe Organ, Piano and Drum sets), hiking and being active in outdoor. I alsohave a keen interest in history and personal development.
+
 education:
   title: Education
   info:
